@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Sergio 👋
 
-<!--
-**SergioCardoZabala/SergioCardoZabala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Cycle Developer at DJS Research Ltd, where I focus on delivering reliable .NET application solutions, supporting the DJS Research website, and improving the overall user experience.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical, maintainable software that solves real-world problems and helps teams work more efficiently. My work combines application development, system support, and continuous improvement, with a strong emphasis on clean architecture, reliability, and usability.
+
+## What I work with
+
+- .NET
+- PHP
+- IIS
+- SQL Server
+- MySQL
+- Web application development
+- System integration and maintenance
+- User experience improvements
+
+## Current focus
+
+- Building robust .NET solutions for business needs
+- Supporting and improving the DJS Research website
+- Enhancing application reliability and user experience
+- Continuously learning and refining technical practices
+
+## What I value
+
+- Clean, maintainable code
+- Thoughtful problem solving
+- Automation and efficiency
+- Collaboration and clear communication
+- Learning new technologies and improving quality
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/sergio-cardo-zabala
+- Email: szabala@djsresearch.com
+- GitHub: https://github.com/SergioCardoZabala
+
+## Location
+
+Based in Spain.
+
+---
+
+I’m passionate about creating software that is useful, dependable, and easy to build on over time.
